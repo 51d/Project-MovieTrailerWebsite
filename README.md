@@ -4,9 +4,11 @@
 
 This is a project from an online nanodegree, Mahine Learning Foundation nano..... part 1 , on Udacity.
 
+
 *What is this Project for?*
 
 This project contains code in python that creates a webpage which has movie titles along with there posters and when we click on one the movie it's trailer is played.
+
 
 *How to run this code?*
 
@@ -15,6 +17,7 @@ Then you need to install the repo's zip file in you computer, then extract file.
 Now you can use the python idle or cmd prompt to run the code.
 If you wish to use cmd then your path should be set and you to be in the same directory where files were extracted and then type py entertainment_center.py and press enter your webpage would be opened.
 To use idle you should right click on entertainment_center.py and click on edit with idle and then click on run->run module.
+
 
 *How does the code works?*
 
